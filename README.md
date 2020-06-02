@@ -9,4 +9,4 @@ Hereby The Login Page Designed In A Manner Particulary For The Dependencies Of T
 ## Key Feature
 The Modern Applications User Interface Is Fully Deployed To Developed The Login Page.
 
-Whereas Which Supports The Users To Easily "Logged In" Or "Connected With" Different Social Media Platform To The Application.
+Whereas Which Supports The Users To Easily " #### Logged In" Or " #### Connected With" Different Social Media Platform To The Application.
