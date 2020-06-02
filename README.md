@@ -13,4 +13,4 @@ Whereas Which Supports The Users To Easily "Logged In" Or "Connected With" Diffe
 
 
 ###### Developers Support : Zanck Pvt.Ltd.
-_developers support@ ciyakhan515@gmail.com
+_developers support@ ciyakhan515@gmail.com_
