@@ -10,3 +10,7 @@ Hereby The Login Page Designed In A Manner Particulary For The Dependencies Of T
 The Modern Applications User Interface Is Fully Deployed To Developed The Login Page.
 
 Whereas Which Supports The Users To Easily "Logged In" Or "Connected With" Different Social Media Platform To The Application.
+
+
+##### Developers Support : Zanck Pvt.Ltd.
+support@ ciyakhan515@gmail.com
